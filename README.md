@@ -4,6 +4,25 @@ Projekt iz kolegija **Uvod u umjetnu inteligenciju**. Aplikacija učitava tekstu
 - konzolni način rada (CLI) za brzu obradu jedne ili više mapa
 - grafičko sučelje (Tkinter) za učitavanje mape i vizualizaciju pronađene rute
 
+# Struktura repozitorija
+
+└── uui-projekt/
+    ├── maps/
+    │   ├── map1.txt
+    │   ├── map2.txt
+    │   ├── map3.txt
+    │   ├── map4.txt
+    │   ├── map5.txt
+    │   ├── map6.txt
+    │   ├── map7.txt
+    │   └── map8.txt
+    ├── LICENSE
+    ├── README.md
+    ├── algorithms.py
+    ├── gui.py
+    ├── maze.py
+    └── run.py
+
 ## Pokretanje (CLI)
 
 1) Pokretanje nad svim mapama u direktoriju maps/ (zadano):
