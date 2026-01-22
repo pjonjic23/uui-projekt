@@ -4,7 +4,7 @@ Projekt iz kolegija **Uvod u umjetnu inteligenciju**. Aplikacija učitava tekstu
 - konzolni način rada (CLI) za brzu obradu jedne ili više mapa
 - grafičko sučelje (Tkinter) za učitavanje mape i vizualizaciju pronađene rute
 
-# Struktura repozitorija
+## Struktura repozitorija
 
 <pre>
 └── uui-projekt/
