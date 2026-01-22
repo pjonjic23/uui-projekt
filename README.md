@@ -6,6 +6,7 @@ Projekt iz kolegija **Uvod u umjetnu inteligenciju**. Aplikacija učitava tekstu
 
 # Struktura repozitorija
 
+<pre>
 └── uui-projekt/
     ├── maps/
     │   ├── map1.txt
@@ -22,6 +23,7 @@ Projekt iz kolegija **Uvod u umjetnu inteligenciju**. Aplikacija učitava tekstu
     ├── gui.py
     ├── maze.py
     └── run.py
+</pre>
 
 ## Pokretanje (CLI)
 
