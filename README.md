@@ -41,9 +41,9 @@ python run.py maps/map1.txt
 python gui.py
 
 U sučelju:
-- učitaj mapu (.txt)
-- pokreni A\* / DFS / oba
-- pogledaj metrike i vizualizaciju pronađenog puta na mreži
+- učitajte mapu (.txt)
+- pokrenite A\* / DFS / oba
+- pogledajte metrike i vizualizaciju pronađenog puta na mreži
 
 ## Format mape
 
